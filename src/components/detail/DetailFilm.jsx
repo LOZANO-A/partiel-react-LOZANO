@@ -1,6 +1,6 @@
 import "DetailFilm.scss"
 
-function DetailFilm()
+function DetailFilm(film)
 {
 
     return(

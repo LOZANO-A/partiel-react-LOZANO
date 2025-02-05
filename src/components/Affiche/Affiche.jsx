@@ -1,6 +1,6 @@
 import "Affiche.scss"
 
-function Affiche()
+function Affiche(film)
 {
 
     return(
